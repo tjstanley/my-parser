@@ -1,0 +1,54 @@
+Keywords:
+
+BTW                                         //
+OBTW                                        /*
+TLDR                                        */
+HAI                                         begin program
+KTHXBYE                                     end program
+I HAS A                                     declare statement
+ITZ                                         declare =                               I HAS A var ITZ 2           var = 2
+R                                           assign =                                var R 3                     var = 3
+WIN                                         true
+FAIL                                        false
+:                                           escape character
+:)                                          \n 
+:>                                          \t
+:"                                          "
+::                                          :
+SUM OF <x> AN <y>                           x+y
+DIFF OF <x> AN <y>                          x-y 
+PRODUKT OF <x> AN <y>                       x*y 
+QUOSHUNT OF <x> AN <y>                      x/y 
+MOD OF <x> AN <y>                           x%y 
+BIGGER OF <x> AN <y>                        max(x,y)
+SMALLR OF <x> AN <y>                        min(x,y)
+MKAY                                        ends operator expression list           <operator> <x> AN <y> AN <z> ... MKAY
+BOTH OF <x> AN <y>                          AND
+EITHER OF <x> AN <y>                        OR 
+WON OF <x> AN <y>                           XOR
+NOT <x>                                     !
+ALL OF ... AN ... MKAY                      AND ALL
+ANY OF ...AN... MKAY                        OR ALL 
+BOTH SAEM <x> AN <y>                        x == y 
+DIFFRINT <x> AN <y>                         x != y 
+BOTH SAEM <x> AN BIGGR OF <x> AN <y>        x >= y
+BOTH SAEM <x> AN SMALLR OF <x> AN <y>       x <= y
+DIFFRINT <x> AN SMALLR OF <x> AN <y>        x > y
+DIFFRINT <x> AN BIGGR OF <x> AN <y>         x < y
+IT                                          temporary variable reference            var, DIFFRINT IT AN x
+SMOOSH                                      string concatenation                    SMOOSH x y z MKAY
+MAEK                                        CAST                                    MAEK <expression> [A] <type>
+ORLY?                                       IF on IT
+YA RLY                                      Begin if true block
+NO WAI                                      Begin if false block
+MEBBE                                       begin else if block
+OIC                                         end IF block
+
+Types:
+
+NOOB            untyped
+TROOF           boolean                 
+NUMBR           int
+NUMBAR          float
+BIG NUMBAR      double
+YARN            string
